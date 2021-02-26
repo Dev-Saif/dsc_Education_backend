@@ -1,1 +1,1 @@
-# django-dsc-game
+dsc_game
