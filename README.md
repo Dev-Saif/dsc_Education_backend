@@ -1,2 +1,2 @@
-# dsc_game
-our game.
+# Education_backend
+Backend project.
